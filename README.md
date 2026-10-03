@@ -1,4 +1,4 @@
-# Password Vault 🔐
+# Password Vault
 
 A password management application developed as my **OCR A-Level Computer Science NEA project** using **Python, Tkinter and SQLite**.
 
